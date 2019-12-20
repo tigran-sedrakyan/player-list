@@ -17,6 +17,10 @@ clone this repo:
 ```sh
 git clone https://github.com/tigran-sedrakyan/player-list
 ```
+change to app directory: 
+```sh
+cd player-list
+```
 install all necessary modules: 
 ```sh
 npm install
@@ -27,6 +31,6 @@ npm run build
 ```
 start the app: 
 ```sh
-npm run start
+npm start
 ```
 ###### Enjoy! :D
